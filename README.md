@@ -1,4 +1,4 @@
-# Projet-Programmation-Avanc-e
+# Text Mining Reddit
 
 Notre projet se compose de 3 fichiers différents : 
   - notre fichier principal, le fichier "Corpus.py" a exécuter
