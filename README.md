@@ -5,4 +5,4 @@ Notre projet se compose de 3 fichiers différents :
   - le fichier annexe "Module_classe.py" contenant nos classes
   - le fichier annexe "Fonctions_support.py" contenant nos fonctions support
 
-Auteurs du projet : Candice Rajaonarivony, Gwladys Kerhoas
+Auteurs du projet : Candice Rajaonarivony, Gwladys Kerhoas.
